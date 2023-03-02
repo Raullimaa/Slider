@@ -1,2 +1,2 @@
 # Slider
-Slider feito em Javascript
+Slider / Carrossel, feito em HTML, CSS e Javascript.
